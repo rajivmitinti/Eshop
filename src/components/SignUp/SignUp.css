@@ -1,0 +1,9 @@
+.signup-button-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.signup-button-div a {
+  justify-content: flex-end;
+}

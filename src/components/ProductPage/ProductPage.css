@@ -1,0 +1,22 @@
+.selected-product-details-div {
+  margin: 100px 180px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.selected-product-details-div .product-detail-left {
+  width: 50%;
+}
+
+.selected-product-details-div .product-detail-right {
+  width: 50%;
+}
+
+.selected-product-details-div .product-image {
+  height: 300px;
+  width: 300px;
+}
+
+.selected-product-details-div .product-title label {
+  font-size: 35px;
+}

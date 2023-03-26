@@ -1,0 +1,13 @@
+.productcard-div {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.product-card-div {
+  margin: 20px 80px;
+}
+
+#react-select-3-listbox {
+  z-index: 3;
+}
